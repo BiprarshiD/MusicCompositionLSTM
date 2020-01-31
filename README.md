@@ -11,3 +11,4 @@ Generated Compositions:
     Composed_5.mid
     
 The extrapolate.py application needs a priori input. Replace "priori_inp.mid" with file name.
+To listen to music in .mid format, you can download MIDIEditor software.
