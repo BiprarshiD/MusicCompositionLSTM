@@ -1,5 +1,5 @@
 # MusicCompositionLSTM
-All code for training and prediction included in pyhton notebook (ipynb) file.
+All code for training and prediction included in python notebook (ipynb) file.
 
 Generated Compositions:
 1.  Offset = 0.25 (fast paced music)
