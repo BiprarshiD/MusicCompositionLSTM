@@ -1,4 +1,4 @@
-# MusicCompositionLSTM
+# Music Composition using LSTM
 All code for training and prediction included in python notebook (ipynb) file.
 
 Generated Compositions:
