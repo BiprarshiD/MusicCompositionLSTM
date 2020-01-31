@@ -1,5 +1,5 @@
 # MusicCompositionLSTM
-Music Composition using Long Short Term Memory.
+All code for training and prediction included in pyhton notebook (ipynb) file.
 
 Generated Compositions:
 1.  Offset = 0.25 (fast paced music)
