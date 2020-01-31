@@ -1,5 +1,6 @@
 # MusicCompositionLSTM
 Music Composition using Long Short Term Memory.
+
 Generated Compositions:
 1.  Offset = 0.25 (fast paced music)
     Composed_1.mid
